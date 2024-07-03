@@ -31,3 +31,8 @@ Instructions:
 √ Pick an ESLint preset: » Prettier
 ? Install project dependencies? (recommended) » - Use arrow-keys. Return to submit.  
 >   Yes, use npm
+
+## Go to project
+```bash
+cd App-Chtitemaisonsolidaire
+```
